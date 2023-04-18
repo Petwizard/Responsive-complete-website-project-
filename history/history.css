@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+    background-image: linear-gradient(rgba(0, 0, 30, 0.1), rgba(0, 0, 30, 0.1)), url(../hisimg/AdobeStock001.png);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
+.text1{
+    font-size: 60px;
+    padding: 100px;
+    font-weight: bolder;
+    position: relative;
+    top: 180px;
+}
+
+p{
+    text-align: justify;
+}
+
+footer{
+    background-color: #000000;
+}
+footer h1{
+    font-size: 36px;
+    font-weight: 700px;
+    line-height: 48px;
+    letter-spacing: -2px;
+    text-align: left;
+}
+.footercard{
+    background-color: #232323;
+}
+.footerbtn{
+    background-color: hsl(44, 100%, 66%);
+}
+.footerbtn button{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.footpass{
+    background-color: transparent;
+    color: #6D6E76;
+    border: 2px solid #6D6E76;
+    outline: none  ;
+}
+

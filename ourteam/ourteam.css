@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.hero{
+    background-image: url(../hisimg/pg4.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.text1{
+    font-size: 54px;
+    padding: 100px;
+    font-weight: bolder;
+    color: white;
+    position: relative;
+    top: 210px;
+}
+p{
+    text-align: justify;
+}
+
+footer{
+    background-color: #000000;
+}
+footer h1{
+    font-size: 36px;
+    font-weight: 700px;
+    line-height: 48px;
+    letter-spacing: -2px;
+    text-align: left;
+}
+.footercard{
+    background-color: #232323;
+}
+.footerbtn{
+    background-color: hsl(44, 100%, 66%);
+}
+.footerbtn button{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.footpass{
+    background-color: transparent;
+    color: #6D6E76;
+    border: 2px solid #6D6E76;
+    outline: none  ;
+}
